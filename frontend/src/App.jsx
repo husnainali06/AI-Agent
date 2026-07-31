@@ -86,7 +86,7 @@ element={<About />}
 />
 
 <Route
- path="/Pricing"
+ path="/pricing"
  element={<Pricing />}
 />
     </Routes>
