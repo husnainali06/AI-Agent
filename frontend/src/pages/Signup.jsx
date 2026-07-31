@@ -3,6 +3,7 @@ import { useNavigate, Navigate } from "react-router-dom";
 import { HiSparkles } from "react-icons/hi2";
 import { FaEye, FaEyeSlash } from "react-icons/fa6";
 import api from "../api/axios";
+import toast from "react-hot-toast";
 
 
 function Signup(){
