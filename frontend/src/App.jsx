@@ -7,7 +7,7 @@ import Chat from "./pages/Chat";
 import Logout from "./pages/Logout";
 import About from "./pages/About";
 import Features from "./pages/Features";
-import Pricing from "./Pages/pricing";
+import Pricing from "./pages/Pricing";
 
 
 import ProtectedRoute from "./components/ProtectedRoute";
